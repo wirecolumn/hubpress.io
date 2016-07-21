@@ -2,7 +2,8 @@
   "meta": {
     "username": "wirecolumn",
     "repositoryName": "wirecolumn.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": "www.wirecolumn.com"
   },
   "site": {
     "title": "WireColumn",
