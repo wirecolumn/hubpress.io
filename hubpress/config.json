@@ -4,7 +4,13 @@
     "repositoryName": "wirecolumn.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "WireColumn",
+    "postsPerPage": "10",
+    "disqus": "wirecolumn"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
